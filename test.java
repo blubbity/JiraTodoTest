@@ -1,4 +1,4 @@
-// TODO: test if issue created
+// TODO: test if issue created now
 
 class HelloWorld {
     public static void main(String[] args) {
